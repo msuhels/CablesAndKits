@@ -19,10 +19,10 @@ run below command.
 `php artisan serve`
 
 ## demo users
-1)User A
+1)User A.
 email: user1@dispostable.com
 password: 12345678
 
-2)User B:
+2)User B.
 email: user2@dispostable.com
 password: 12345678
