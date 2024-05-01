@@ -19,6 +19,7 @@ run below command.<br />
 `php artisan serve`
 Next, open this link in the browser. <br />
 [http://localhost:8000/login](http://localhost:8000/login)
+
 ### demo users
 1)User A.<br />
 email: user1@dispostable.com<br />
@@ -27,3 +28,13 @@ password: 12345678<br />
 2)User B.<br />
 email: user2@dispostable.com<br />
 password: 12345678<br />
+
+### steup cron (optional)
+if we run this porject on server then setup cron link <br />
+[http://host_name/delete-message-cron](http://host_name/delete-message-cron)  <br />
+
+OR <br />
+
+if we run this porject on local server then you can hit below link manually <br />
+[http://localhost:8000/delete-message-cron](http://localhost:8000/delete-message-cron)  <br />
+

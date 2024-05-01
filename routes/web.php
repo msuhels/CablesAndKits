@@ -19,6 +19,7 @@ use Illuminate\Support\Facades\Route;
 
 Auth::routes();
 Route::get('/', [App\Http\Controllers\ChatController::class, 'index'])->name('chat');
+Route::get('/home', [App\Http\Controllers\ChatController::class, 'index'])->name('home');
 Route::get('/chat', [App\Http\Controllers\ChatController::class, 'index'])->name('chat');
 Route::post('/send-message', [App\Http\Controllers\ChatController::class, 'send_message'])->name('send-message');
 Route::get('/get-all-message/{id}', [App\Http\Controllers\ChatController::class, 'getallmessages'])->name('get-all-message');
