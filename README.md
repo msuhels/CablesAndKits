@@ -30,11 +30,11 @@ email: user2@dispostable.com<br />
 password: 12345678<br />
 
 ### steup cron (optional)
-if we run this porject on server then setup cron link <br />
+if we run this project on server then setup cron link <br />
 [http://host_name/delete-message-cron](http://host_name/delete-message-cron)  <br />
 
 OR <br />
 
-if we run this porject on local server then you can hit below link manually <br />
+if we run this project on local server then you can hit below link manually <br />
 [http://localhost:8000/delete-message-cron](http://localhost:8000/delete-message-cron)  <br />
 
