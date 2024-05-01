@@ -16,7 +16,7 @@ run below command.<br />
 
 ### run poject
 run below command.<br />
-`php artisan serve`  <br />
+`php artisan serve`
 Next, open this link in the browser. <br />
 [http://localhost:8000/login](http://localhost:8000/login)
 
